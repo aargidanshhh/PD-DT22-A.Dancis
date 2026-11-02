@@ -1,0 +1,10 @@
+J2. Datnes kodējums
+Audzēknis uzrakstīja CSV atskaiti. Atverot to Excel, latviešu burti ir kārtībā, bet visas
+kolonnas ir salipušas vienā. Nosauc cēloni un labojumu.
+  Atbilde: ja ir veikts ieks powershell parbauditu vai nav aizmirsis pievienot -append
+
+  J1. Klusā kļūda
+Skripts palaižas bez kļūdas un izvada desmit servisus. Tomēr atbilde nesakrīt ar to, ko tu
+gaidīji. Kā tu to pamanītu un ko pārbaudītu vispirms?
+  atbilde: vispirms es parbauditu skripta noscijumus un filtrus, un parbauditu vai vispar ir vajadzigie dati ievadfaila.
+  

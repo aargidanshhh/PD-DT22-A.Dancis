@@ -1,7 +1,7 @@
 J2. Datnes kodējums
 Audzēknis uzrakstīja CSV atskaiti. Atverot to Excel, latviešu burti ir kārtībā, bet visas
 kolonnas ir salipušas vienā. Nosauc cēloni un labojumu.
-  Atbilde: ja ir veikts ieks powershell parbauditu vai nav aizmirsis pievienot -append
+  Atbilde: Excel gaida semikolu, bet CSV failā kolonnas atdalītas ar komatu, tāpēc jāpieliek -Delimiter ";".
 
   J1. Klusā kļūda
 Skripts palaižas bez kļūdas un izvada desmit servisus. Tomēr atbilde nesakrīt ar to, ko tu
